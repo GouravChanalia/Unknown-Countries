@@ -1,3 +1,11 @@
+#Screenshot of the App
+
+<img width="840" alt="Screenshot 2021-03-08 at 7 17 24 PM" src="https://user-images.githubusercontent.com/68805979/110329690-f3b73880-8042-11eb-8b1e-1d50b0aed6e4.png">
+
+#Live here:
+
+[Click To Open](https://countries-in-the-world-3p34g81tda1klzhxbyf.codequotient.in/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
